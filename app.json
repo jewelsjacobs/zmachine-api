@@ -1,0 +1,10 @@
+{
+  "name": "zmachine-api",
+  "description": "Web service to manage zmachine game instances",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/jewelsjacobs/zmachine-api.git",
+  "keywords": [
+    "node",
+    "debian"
+  ]
+}
